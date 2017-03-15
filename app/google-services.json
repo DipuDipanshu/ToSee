@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "956739922646",
+    "firebase_url": "https://tosee-26c7c.firebaseio.com",
+    "project_id": "tosee-26c7c",
+    "storage_bucket": "tosee-26c7c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:956739922646:android:476823885ba2807f",
+        "android_client_info": {
+          "package_name": "newapp.com.example.dipanshugupta.tosee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "956739922646-b7vj0c88cpdo785u6gnhec4cqc01c7en.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "newapp.com.example.dipanshugupta.tosee",
+            "certificate_hash": "40252cf21606e6b43ca553c740e104cdba9d8436"
+          }
+        },
+        {
+          "client_id": "956739922646-er0vtu21i4tuab6f1cnnja0fa4vq0o08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkjzxK6W8AA0yxcF1znZrFUY_46-glzKA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "956739922646-er0vtu21i4tuab6f1cnnja0fa4vq0o08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
